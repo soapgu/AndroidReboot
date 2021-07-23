@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidReboot</string>
+    <string name="broadcast">广播</string>
+    <string name="shell">脚本</string>
+</resources>
